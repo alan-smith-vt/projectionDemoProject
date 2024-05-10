@@ -28,7 +28,7 @@ architecture combines a server (see companion link above) operating on a compute
  See the following dissertation (link TBD) and associated paper (link TBD) for more
  information on our approach.
  
- Steps for using this project are detailed below in text, and demonstrated in the following two videos.
+ # Settup Steps:
  
  Install the server companion GitHub (see above) and follow the instructions therein for setup.
  
@@ -63,7 +63,7 @@ architecture combines a server (see companion link above) operating on a compute
  
  If 5 red dots appear, then the project is correctly set up.
  
- Optional information:
+ # Optional information:
  To project additional debugging information, comment out line 101 in the ProjectionManager.cs file.
  
  To save multiple server ip addresses, uncomment lines 13-15, 30-32, and 41-43 in the NetworkManager.cs file.
@@ -82,12 +82,17 @@ architecture combines a server (see companion link above) operating on a compute
  Additionally, the extrensics matrics are visualized in 3D space when the additional projection debugging information are enabled 
  (by commenting out line 101 in ProjectionManager.cs)
  
- Instructional Videos:
- [![Example Usage in Editor](https://i.ytimg.com/vi/fHQKfhuzAUc/maxresdefault.jpg)](https://www.youtube.com/watch?v=fHQKfhuzAUc&ab_channel=AlanSmith)
+ # Instructional Videos:
+
+ Example Usage in Editor:
  
+ [![Example Usage in Editor](https://i.ytimg.com/vi/fHQKfhuzAUc/maxresdefault.jpg)](https://www.youtube.com/watch?v=fHQKfhuzAUc&ab_channel=AlanSmith)
+
+Example Usage when Deployed onto Hololens 2:
+
  [![Example Usage when Deployed onto Hololens 2](https://i.ytimg.com/vi/NEtJXZsc2X8/maxresdefault.jpg)](https://www.youtube.com/watch?v=v=NEtJXZsc2X8&ab_channel=AlanSmith)
  
-References
+# References
  
 Brandon Fogerty. Holographic photo blending with photocapture.
 Unity Forums, 2016. URL https://forum.unity.com/threads/holographic-photo-blending-with-photocapture.416023/.
