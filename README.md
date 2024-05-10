@@ -94,7 +94,7 @@ architecture combines a server (see companion link above) operating on a compute
 
 Example Usage when Deployed onto Hololens 2:
 
- [![Example Usage when Deployed onto Hololens 2](https://i.ytimg.com/vi/NEtJXZsc2X8/maxresdefault.jpg)](https://www.youtube.com/watch?v=v=NEtJXZsc2X8&ab_channel=AlanSmith)
+ [![Example Usage when Deployed onto Hololens 2](https://i.ytimg.com/vi/NEtJXZsc2X8/maxresdefault.jpg)](https://www.youtube.com/watch?v=NEtJXZsc2X8&ab_channel=AlanSmith)
  
 # References
  
