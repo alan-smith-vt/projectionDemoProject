@@ -28,7 +28,7 @@ architecture combines a server (see companion link above) operating on a compute
  See the following dissertation (link TBD) and associated paper (link TBD) for more
  information on our approach.
  
- # Settup Steps:
+ # Setup Steps:
  
  Install the server companion GitHub (see above) and follow the instructions therein for setup.
  
