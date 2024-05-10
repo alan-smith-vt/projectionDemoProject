@@ -82,12 +82,15 @@ architecture combines a server (see companion link above) operating on a compute
  Additionally, the extrensics matrics are visualized in 3D space when the additional projection debugging information are enabled 
  (by commenting out line 101 in ProjectionManager.cs)
  
+ Instructional Videos:
+ [![Example Usage in Editor](https://img.youtube.com/vi/fHQKfhuzAUc&ab_channel=AlanSmith/0.jpg)](https://www.youtube.com/watch?v=fHQKfhuzAUc&ab_channel=AlanSmith)
  
- References
+ [![Example Usage when Deployed onto Hololens 2](https://img.youtube.com/vi/v=NEtJXZsc2X8&ab_channel=AlanSmith/0.jpg)](https://www.youtube.com/watch?v=v=NEtJXZsc2X8&ab_channel=AlanSmith)
+ 
+References
  
 Brandon Fogerty. Holographic photo blending with photocapture.
-Unity Forums, 2016. URL https://forum.unity.com/threads/
-holographic-photo-blending-with-photocapture.416023/.
+Unity Forums, 2016. URL https://forum.unity.com/threads/holographic-photo-blending-with-photocapture.416023/.
 
 Zaid Abbas Al-Sabbag, Chul Min Yeum, and Sriram Narasimhan. Interactive defect
 quantification through extended reality. Advanced Engineering Informatics, 51:101473,
