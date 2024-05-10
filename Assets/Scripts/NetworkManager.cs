@@ -10,9 +10,9 @@ using System;
 public class NetworkManager : MonoBehaviour
 {
     [SerializeField] public string ip_eduroamDesktop;
-    [SerializeField] public string ip_LAN_Desktop;
-    [SerializeField] public string ip_LAN_Laptop;
-    [SerializeField] public string ip_HomeWifi_Laptop;
+    //[SerializeField] public string ip_LAN_Desktop;
+    //[SerializeField] public string ip_LAN_Laptop;
+    //[SerializeField] public string ip_HomeWifi_Laptop;
     [SerializeField] public string port;
 
     public string ip;//
@@ -27,9 +27,9 @@ public class NetworkManager : MonoBehaviour
     private void Awake()
     {
         ipList[0] = ip_eduroamDesktop;
-        ipList[1] = ip_LAN_Desktop;
-        ipList[2] = ip_LAN_Laptop;
-        ipList[3] = ip_HomeWifi_Laptop;
+        //ipList[1] = ip_LAN_Desktop;
+        //ipList[2] = ip_LAN_Laptop;
+        //ipList[3] = ip_HomeWifi_Laptop;
 
         projectionManager = GameObject.Find("MixedRealityPlayspace/Projection Manager").GetComponent<ProjectionManager>();
         cameraManager = GameObject.Find("MixedRealityPlayspace/Camera Manager").GetComponent<CameraManager>();
@@ -38,7 +38,7 @@ public class NetworkManager : MonoBehaviour
     private void Start()
     {
         StartCoroutine(Connect(0));
-        StartCoroutine(Connect(1));
+        //StartCoroutine(Connect(1));
         //StartCoroutine(Connect(2));
         //StartCoroutine(Connect(3));
     }
