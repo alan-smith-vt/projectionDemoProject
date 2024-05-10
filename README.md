@@ -62,6 +62,10 @@ architecture combines a server (see companion link above) operating on a compute
  Point the red rectangle photo frame at one of the green debugging surfaces.
  
  If 5 red dots appear, then the project is correctly set up.
+
+ Usage on the Hololens is similar, except you will need to update the server code as detailed in the companion GitHub. 
+ Instead of hitting play in the editor, simply open the application on the Hololens, verify the "GET" request was 
+ received by the server, and use the flat palm gesture to move the menu.
  
  # Optional information:
  To project additional debugging information, comment out line 101 in the ProjectionManager.cs file.
