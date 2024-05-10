@@ -83,9 +83,9 @@ architecture combines a server (see companion link above) operating on a compute
  (by commenting out line 101 in ProjectionManager.cs)
  
  Instructional Videos:
- [![Example Usage in Editor](https://img.youtube.com/vi/fHQKfhuzAUc&ab_channel=AlanSmith/0.jpg)](https://www.youtube.com/watch?v=fHQKfhuzAUc&ab_channel=AlanSmith)
+ [![Example Usage in Editor](https://i.ytimg.com/vi/fHQKfhuzAUc/maxresdefault.jpg)](https://www.youtube.com/watch?v=fHQKfhuzAUc&ab_channel=AlanSmith)
  
- [![Example Usage when Deployed onto Hololens 2](https://img.youtube.com/vi/v=NEtJXZsc2X8&ab_channel=AlanSmith/0.jpg)](https://www.youtube.com/watch?v=v=NEtJXZsc2X8&ab_channel=AlanSmith)
+ [![Example Usage when Deployed onto Hololens 2](https://i.ytimg.com/vi/NEtJXZsc2X8/maxresdefault.jpg)](https://www.youtube.com/watch?v=v=NEtJXZsc2X8&ab_channel=AlanSmith)
  
 References
  
