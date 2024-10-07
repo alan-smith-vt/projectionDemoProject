@@ -2,7 +2,7 @@
 
 See companion GitHub for server code: https://github.com/alan-smith-vt/projectionDemoServer
 
-This project is made for demonstration purposes of our novel approach to 
+This project is made for demonstration purposes of our Hololens specific approach to 
 projecting image data onto the physical environment with sub-milimeter level
 precision. This was required for our research into "Human in the Loop" automation
 for bridge inspection tasks, where we needed to overlay Machine Learning (ML) model 
